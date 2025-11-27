@@ -1,0 +1,9 @@
+# Songsterr Tab Downloader - Dependencies
+# Python 3.8+ required
+
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+requests>=2.25.0
+
+# Optional: for PDF generation (--pdf flag)
+reportlab>=4.0.0
